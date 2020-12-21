@@ -1,4 +1,4 @@
-## Growth mindset
+## Mohammed Khamees
 
 My name is Mohammed Khamees I'm a civil engineer, I worked as a civil engineer for 10 months after that I volunteered with aiesec in Germany,
 after that, I traveled to Dubai to work with Expo to develop the 3d building technology.
