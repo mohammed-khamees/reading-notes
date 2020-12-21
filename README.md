@@ -9,6 +9,6 @@ I'm always thinking about the things that let me keep growing and be better so I
 For more read this great book [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519).
 
 
-| Page | Description |
+| Page | Links |
 | --- | --- |
 | Read1 |  [Link](https://mohammed-khamees.github.io/reading-notes/Read1) |
