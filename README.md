@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Growth mindset
 
-You can use the [editor on GitHub](https://github.com/mohammed-khamees/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+how to be a creative and supportive person, the person who wants to change the world and make a better life for all people especially the people who care about and love; all of that depends on you and how is your mind grows and are you keep trying to do better habits that help you to be a more mature and innovative person.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So, we all need to be successful people whatever we want to be a success in we need to change our mind and fill it with great ideas that let our mind grow and improve us to achieve our success so how we can do that, by a good habit, accept the criticism from the more experienced people, work hard always to get what you want and when you get to reach back pull someone else up because each teaches one do not just aspire to make a living aspire to make a difference and that how you can change the people lives to be better and grateful. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammed-khamees/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I'm always thinking about the things that let me keep growing and be better so I always ask my self did I learn a new thing, did I help someone to achieve one of his/ her steps to reach his/ her goal if no then am going back one step so that push me every day to learn to help to see a smile on the person who I've already helped without asking him any favor that's the main concept of our life and that the reason to live on the earth until we pass out.   
