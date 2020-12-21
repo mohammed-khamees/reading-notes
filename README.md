@@ -7,3 +7,8 @@ So, we all need to be successful people whatever we want to be a success in we n
 I'm always thinking about the things that let me keep growing and be better so I always ask my self did I learn a new thing, did I help someone to achieve one of his/ her steps to reach his/ her goal if no then am going back one step so that push me every day to learn to help to see a smile on the person who I've already helped without asking him any favor that's the main concept of our life and that the reason to live on the earth until we pass out.
 
 For more read this great book [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519).
+
+
+| page | Description |
+| --- | --- |
+| Read1 |  (https://mohammed-khamees.github.io/reading-notes/Read1) |
