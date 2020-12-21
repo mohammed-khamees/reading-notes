@@ -11,4 +11,4 @@ For more read this great book [The 7 Habits of Highly Effective People](https://
 
 | page | Description |
 | --- | --- |
-| Read1 |  (https://mohammed-khamees.github.io/reading-notes/Read1) |
+| Read1 |  [](https://mohammed-khamees.github.io/reading-notes/Read1) |
