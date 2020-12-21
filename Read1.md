@@ -10,4 +10,9 @@ I'm always thinking about the things that let me keep growing and be better so I
 
 > *** if no then am going back one step so that push me every day to learn to help to see a smile on the person who I've already helped without asking him any favor that's the main concept of our life and that the reason to live on the earth until we pass out ***.
 
-For more read this great book [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519).
+For more read this [article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+For further reading  this great book [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519).
+
+
+
