@@ -1,4 +1,4 @@
-##HTML Structure and layout 
+## HTML Structure and layout 
 
 HTML stands for *Hypertext markup language* it uses the tags to indicate the type of element that we want to add to our website pages.
 
@@ -20,4 +20,4 @@ Are the new tags are enough to create your website? surely no, we have lots of p
 
 - Design is about communication. Visual hierarchy helps visitors understand what you are   trying to tell them.
 
-for further reading try this amazing book[HTML&CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+for further reading try this amazing book [HTML&CSS](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
