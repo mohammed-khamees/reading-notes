@@ -9,5 +9,6 @@ Now I'm with to complete my journey and achieve my goal to be a great programmer
 
 | Page | Links |
 | --- | --- |
-| Read1 |  [content page](https://mohammed-khamees.github.io/reading-notes/Read1) |
+| Growth mindset |  [content](https://mohammed-khamees.github.io/reading-notes/Read1)|
+| HTML&CSS |  [content](https://mohammed-khamees.github.io/reading-notes/ReadHtml)|
 | GitHub |  [My GitHub Page](https://github.com/mohammed-khamees) |
