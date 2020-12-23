@@ -11,4 +11,5 @@ Now I'm with to complete my journey and achieve my goal to be a great programmer
 | --- | --- |
 | Growth mindset |  [content](https://mohammed-khamees.github.io/reading-notes/Read1)|
 | HTML&CSS |  [content](https://mohammed-khamees.github.io/reading-notes/ReadHtml)|
+| JavaScript |  [content](https://mohammed-khamees.github.io/reading-notes/ReadJS)|
 | GitHub |  [My GitHub Page](https://github.com/mohammed-khamees) |
