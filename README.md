@@ -6,10 +6,12 @@ Then I return back to Jordan and started to read about web development and how t
 
 Now I'm with to complete my journey and achieve my goal to be a great programmer and It's an honor and pleasure to be a part of your family thank you to give me this opportunity and for all your effo
 
-| Page               | Links                                                                |
-| ------------------ | -------------------------------------------------------------------- |
-| Growth mindset     | [content](https://mohammed-khamees.github.io/reading-notes/Read1)    |
-| HTML&CSS           | [content](https://mohammed-khamees.github.io/reading-notes/ReadHtml) |
-| JavaScript         | [content](https://mohammed-khamees.github.io/reading-notes/ReadJS)   |
-| How Computers work | [content](https://mohammed-khamees.github.io/reading-notes/ReadHCW)  |
-| GitHub             | [My GitHub Page](https://github.com/mohammed-khamees)                |
+| Page                        | Links                                                                   |
+| --------------------------- | ----------------------------------------------------------------------- |
+| Growth mindset              | [content](https://mohammed-khamees.github.io/reading-notes/Read1)       |
+| HTML&CSS                    | [content](https://mohammed-khamees.github.io/reading-notes/ReadHtml)    |
+| JavaScript                  | [content](https://mohammed-khamees.github.io/reading-notes/ReadJS)      |
+| How Computers work          | [content](https://mohammed-khamees.github.io/reading-notes/ReadHCW)     |
+| Programming with JavaScript | [content](https://mohammed-khamees.github.io/reading-notes/ReadPwJS)    |
+| Operators and loops         | [content](https://mohammed-khamees.github.io/reading-notes/ReadOALoops) |
+| GitHub                      | [My GitHub Page](https://github.com/mohammed-khamees)                   |
