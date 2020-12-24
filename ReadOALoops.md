@@ -1,0 +1,6 @@
+## Operators and Loops
+
+And as the JS is a programming language as the other language so it has Operators or better name the decision-maker that let the code decide what should do like the comparison in the conditional statement or loops statement so if that right you can do a thing or not you can do a different thing so it solves the logical problems let you put the solution to let you know what's going on with your code and if there is an error to fix it.
+
+What if I want to print hello world one thousand times or maybe a million time is it right to write the same line of the code a million time or you can find a simple way to do that for you because the basic rule in programming if you repeating your self in the code always think about a shortcut that can do the job without repeating the lines of code
+so the loops on of the expressions that help you to stuff of commands several times without repeating your lines of code like the for loop or do while loop and while loop all of them are same in using and the rules of how to use them you have to make a condition and a counter to end your loop with an initial value to start.
