@@ -9,9 +9,10 @@ Now I'm with to complete my journey and achieve my goal to be a great programmer
 | Page                        | Links                                                                   |
 | --------------------------- | ----------------------------------------------------------------------- |
 | Growth mindset              | [content](https://mohammed-khamees.github.io/reading-notes/Read1)       |
-| HTML&CSS                    | [content](https://mohammed-khamees.github.io/reading-notes/ReadHtml)    |
+| HTML                        | [content](https://mohammed-khamees.github.io/reading-notes/ReadHtml)    |
 | JavaScript                  | [content](https://mohammed-khamees.github.io/reading-notes/ReadJS)      |
 | How Computers work          | [content](https://mohammed-khamees.github.io/reading-notes/ReadHCW)     |
 | Programming with JavaScript | [content](https://mohammed-khamees.github.io/reading-notes/ReadPwJS)    |
 | Operators and loops         | [content](https://mohammed-khamees.github.io/reading-notes/ReadOALoops) |
+| CSS                         | [content](https://mohammed-khamees.github.io/reading-notes/ReadCSS) |
 | GitHub                      | [My GitHub Page](https://github.com/mohammed-khamees)                   |
